@@ -64,13 +64,13 @@ Here are some of the certifications I've recently earned:
 
 These certifications validate my proficiency in key areas of data analysis and underscore my ability to apply best practices in the field. They are a reflection of my drive to deliver data-driven insights, solve complex problems, and contribute effectively in my role as a data analyst.
 
-For a comprehensive list of my certifications and qualifications, please refer to my [LinkedIn profile](Your LinkedIn Profile URL). I'm eager to leverage my certified expertise to make an impact in the data analysis field, and I look forward to new opportunities to apply my knowledge and skills.
+For a comprehensive list of my certifications and qualifications, please refer to my  [Yaminn Nge](www.linkedin.com/in/yaminn-Nge7). I'm eager to leverage my certified expertise to make an impact in the data analysis field, and I look forward to new opportunities to apply my knowledge and skills.
 
 ## Let's Connect
 
 I'm always open to new opportunities, collaborations, and discussions about data analysis, software development, or the exciting fusion of both. Whether you're looking for a data analyst with a unique software background, want to discuss a potential project, or simply wish to connect and explore opportunities together, I'd be delighted to hear from you.
 
-You can reach out to me via email at yaminngeinfo@gmail.com, or connect with me on [LinkedIn](Your LinkedIn Profile URL) to start a conversation. Let's embrace the dynamic world of data analysis and embark on a journey of exploration and innovation together.
+You can reach out to me via email at yaminngeinfo@gmail.com, or connect with me on [Yaminn Nge](www.linkedin.com/in/yaminn-Nge7) to start a conversation. Let's embrace the dynamic world of data analysis and embark on a journey of exploration and innovation together.
 
 Thank you for visiting my portfolio. I'm eager to continue expanding my horizons in data analysis and look forward to connecting with like-minded professionals who share my enthusiasm for data-driven excellence.
 
