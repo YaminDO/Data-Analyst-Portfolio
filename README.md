@@ -14,7 +14,7 @@
      - [SQL]
      - [Tableau]
  -  [Educational Background](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#educational-background)
- -  [Certificates](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#certificates)
+ -  [Certifications](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#certifications)
  -  [Let's Connect](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#let's-connect)
    
 ## About Me
