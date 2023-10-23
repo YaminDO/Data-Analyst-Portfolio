@@ -1,6 +1,26 @@
-# About Me
+[//]: # (These are reference links used in the body of this note )
 
-Greetings! I'm Yaminn Nge, and I'm on an exciting journey of transitioning from a seasoned software developer to a data analyst. With a strong foundation in software engineering, I'm now channeling my passion for data and analytics to unlock the potential of information-driven decision-making.
+# Table of Contents 
+
+-  [About Me] 
+    -  [My Journey]
+    -  [The Transition]
+    -  [Bridging the Gap]
+    -  [What Drives Me]
+ -  [Projects]
+     - [Python]
+     - [Power BI]
+     - [Excel]
+     - [SQL]
+     - [Tableau]
+ -  [Educational Background]
+ -  [Certificates]
+ -  [Let's Connect]
+   
+## About Me
+
+Hello! I'm Yaminn Nge, and I'm on an exciting journey of transitioning from a seasoned software developer to a data analyst. With a strong foundation in software engineering, I'm now channeling my passion for data and analytics to unlock the potential of information-driven decision-making.
+
 
 ## My Journey
 
@@ -25,3 +45,4 @@ I'm always open to new opportunities, collaborations, and discussions about data
 You can reach out to me via email at [Your Email], or connect with me on [LinkedIn](Your LinkedIn Profile URL) to start a conversation. Let's embrace the dynamic world of data analysis and embark on a journey of exploration and innovation together.
 
 Thank you for visiting my portfolio. I'm eager to continue expanding my horizons in data analysis and look forward to connecting with like-minded professionals who share my enthusiasm for data-driven excellence.
+
