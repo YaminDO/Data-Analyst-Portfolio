@@ -4,9 +4,9 @@
 
 -  [About Me](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#about-me)
     -  [My Journey](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#my-journey)
-    -  [The Transition]
-    -  [Bridging the Gap]
-    -  [What Drives Me]
+    -  [The Transition](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#the-transition)
+    -  [Bridging the Gap](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#bridging-the-gap)
+    -  [What Drives Me](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#what-drives-me)
  -  [Projects](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#about-me)
      - [Python]
      - [Power BI]
@@ -37,6 +37,8 @@ What sets me apart is the unique combination of my software development backgrou
 ### What Drives Me
 
 What drives me in my new role is the opportunity to harness data's transformative power. I thrive on uncovering patterns, identifying trends, and delivering data-driven insights that empower organizations to make informed decisions. My commitment to staying updated on the latest data analysis tools and techniques reflects my unwavering enthusiasm for this field.
+
+## Projects
 
 ## Let's Connect
 
