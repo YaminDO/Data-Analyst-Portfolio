@@ -41,6 +41,10 @@ What drives me in my new role is the opportunity to harness data's transformativ
 ## Projects
 
 ## Educational Background
+-  *Bechalor of Computer Science*
+    * Computer University of Monywa, Myanamr
+    * Dec 2013  ~ Dec 2017 
+
 
 ## Certificates
 
@@ -48,7 +52,7 @@ What drives me in my new role is the opportunity to harness data's transformativ
 
 I'm always open to new opportunities, collaborations, and discussions about data analysis, software development, or the exciting fusion of both. Whether you're looking for a data analyst with a unique software background, want to discuss a potential project, or simply wish to connect and explore opportunities together, I'd be delighted to hear from you.
 
-You can reach out to me via email at [Your Email], or connect with me on [LinkedIn](Your LinkedIn Profile URL) to start a conversation. Let's embrace the dynamic world of data analysis and embark on a journey of exploration and innovation together.
+You can reach out to me via email at yaminngeinfo@gmail.com, or connect with me on [LinkedIn](Your LinkedIn Profile URL) to start a conversation. Let's embrace the dynamic world of data analysis and embark on a journey of exploration and innovation together.
 
 Thank you for visiting my portfolio. I'm eager to continue expanding my horizons in data analysis and look forward to connecting with like-minded professionals who share my enthusiasm for data-driven excellence.
 
