@@ -2,8 +2,8 @@
 
 # Table of Contents 
 
--  [About Me](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#about-me)
-    -  [My Journey](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#my-journey)
+-  [About Me](https://github.com/YaminDO/Data-Analyst-Portfolio/main/README.md#about-me)
+    -  [My Journey](https://github.com/YaminDO/Data-Analyst-Portfolio/main/README.md#my-journey)
     -  [The Transition]
     -  [Bridging the Gap]
     -  [What Drives Me]
