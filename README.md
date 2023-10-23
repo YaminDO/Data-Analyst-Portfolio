@@ -1,8 +1,9 @@
 [//]: # (These are reference links used in the body of this note )
+(https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 
 # Table of Contents 
 
--  [About Me](https://github.com/YaminDO/Data-Analyst-Portfolio/main/README.md#about-me)
+-  [About Me](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#about-me)
     -  [My Journey](https://github.com/YaminDO/Data-Analyst-Portfolio/main/README.md#my-journey)
     -  [The Transition]
     -  [Bridging the Gap]
