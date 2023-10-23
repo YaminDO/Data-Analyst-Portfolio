@@ -15,7 +15,7 @@
      - [Tableau]
  -  [Educational Background](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#educational-background)
  -  [Certifications](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#certifications)
- -  [Let's Connect](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#let's-connect)
+ -  [ Contact Me](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#contactme)
    
 ## About Me
 
@@ -66,7 +66,7 @@ These certifications validate my proficiency in key areas of data analysis and u
 
 For a comprehensive list of my certifications and qualifications, please refer to my  [Yaminn Nge](www.linkedin.com/in/yaminn-Nge7). I'm eager to leverage my certified expertise to make an impact in the data analysis field, and I look forward to new opportunities to apply my knowledge and skills.
 
-## Let's Connect
+## Contact Me
 
 I'm always open to new opportunities, collaborations, and discussions about data analysis, software development, or the exciting fusion of both. Whether you're looking for a data analyst with a unique software background, want to discuss a potential project, or simply wish to connect and explore opportunities together, I'd be delighted to hear from you.
 
