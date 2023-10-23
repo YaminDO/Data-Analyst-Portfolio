@@ -7,15 +7,15 @@
     -  [The Transition](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#the-transition)
     -  [Bridging the Gap](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#bridging-the-gap)
     -  [What Drives Me](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#what-drives-me)
- -  [Projects](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#projects)
+ -  [Projects](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#projects)
      - [Python]
      - [Power BI]
      - [Excel]
      - [SQL]
      - [Tableau]
- -  [Educational Background](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#educational-background)
- -  [Certificates](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#certificates)
- -  [Let's Connect](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#let's-connect)
+ -  [Educational Background](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#educational-background)
+ -  [Certificates](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#certificates)
+ -  [Let's Connect](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#let's-connect)
    
 ## About Me
 
