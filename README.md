@@ -32,7 +32,7 @@ While my journey in software development has been immensely rewarding, I've real
 
 ### Bridging the Gap
 
-What sets me apart is the unique combination of my software development background and my growing expertise in data analysis. My experience in software development has endowed me with strong logical thinking, a keen eye for detail, and a relentless pursuit of efficiency. These qualities complement my growing skills in data analysis, where I'm proficient in [mention relevant tools and technologies] and am comfortable working with large datasets.
+What sets me apart is the unique combination of my software development background and my growing expertise in data analysis. My experience in software development has endowed me with strong logical thinking, a keen eye for detail, and a relentless pursuit of efficiency. These qualities complement my growing skills in data analysis, where I'm proficient in Python, SQL, PowerBI , Excel and I am comfortable working with large datasets.
 
 ### What Drives Me
 
@@ -46,7 +46,25 @@ What drives me in my new role is the opportunity to harness data's transformativ
     * Dec 2013  ~ Dec 2017 
 
 
-## Certificates
+## Certifications
+As an aspiring data analyst, I'm dedicated to honing my skills and knowledge in the dynamic world of data. My journey has been marked by a commitment to continuous learning and professional growth, as exemplified by my recent certifications. These certifications are a testament to my dedication to the field of data analysis and my readiness to take on new challenges.
+Here are some of the certifications I've recently earned:
+
+- **Certified Data Analyst (CDA)**
+  - *Issuing Organization:* [Certifying Body]
+  - *Date of Certification:* [Month Year]
+
+- **Data Science Fundamentals**
+  - *Issuing Organization:* [Certifying Body]
+  - *Date of Certification:* [Month Year]
+
+- **Advanced SQL for Data Analysts**
+  - *Issuing Organization:* [Certifying Body]
+  - *Date of Certification:* [Month Year]
+
+These certifications validate my proficiency in key areas of data analysis and underscore my ability to apply best practices in the field. They are a reflection of my drive to deliver data-driven insights, solve complex problems, and contribute effectively in my role as a data analyst.
+
+For a comprehensive list of my certifications and qualifications, please refer to my [LinkedIn profile](Your LinkedIn Profile URL). I'm eager to leverage my certified expertise to make an impact in the data analysis field, and I look forward to new opportunities to apply my knowledge and skills.
 
 ## Let's Connect
 
