@@ -7,15 +7,15 @@
     -  [The Transition](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#the-transition)
     -  [Bridging the Gap](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#bridging-the-gap)
     -  [What Drives Me](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#what-drives-me)
- -  [Projects](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#about-me)
+ -  [Projects](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#projects)
      - [Python]
      - [Power BI]
      - [Excel]
      - [SQL]
      - [Tableau]
- -  [Educational Background](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#about-me)
- -  [Certificates](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#about-me)
- -  [Let's Connect](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#about-me)
+ -  [Educational Background](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#educational-background)
+ -  [Certificates](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#certificates)
+ -  [Let's Connect](https://github.com/YaminDO/Data-Analyst-Portfolio/edit/main/README.md#let's-connect)
    
 ## About Me
 
@@ -39,6 +39,10 @@ What sets me apart is the unique combination of my software development backgrou
 What drives me in my new role is the opportunity to harness data's transformative power. I thrive on uncovering patterns, identifying trends, and delivering data-driven insights that empower organizations to make informed decisions. My commitment to staying updated on the latest data analysis tools and techniques reflects my unwavering enthusiasm for this field.
 
 ## Projects
+
+## Educational Background
+
+## Certificates
 
 ## Let's Connect
 
