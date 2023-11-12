@@ -9,7 +9,7 @@
     -  [What Drives Me](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#what-drives-me)
  -  [Projects](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#projects)
      - [Python]
-     - [Power BI]
+     - [Power BI](https://www.novypro.com/project/adventure-works-dashboard-8)
      - [Excel]
      - [SQL]
      - [Tableau]
