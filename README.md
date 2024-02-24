@@ -24,7 +24,8 @@ Hello! I'm Yaminn Nge, and I'm on an exciting journey of transitioning from a se
 
 ### My Journey
 
-My journey in software development began when I [briefly mention how you started your software development career or what sparked your initial interest]. Throughout my career, I've had the privilege to work on diverse projects, tackling complex coding challenges, and honing my problem-solving skills. 
+My journey into software development ignited during my early days as a junior Java developer. Throughout my career, I've had the privilege to work on diverse projects, tackling complex coding challenges, and honing my problem-solving skills. 
+I specialize in IBM DataStage, focusing on ETL processes for report generation, Data Mart, Data Warehouse, and File Output. My expertise includes developing queries, enhancing DataStage programs, generating source differences for program modifications, and creating comprehensive job reports using DataStage Tools.
 
 ### The Transition
 
